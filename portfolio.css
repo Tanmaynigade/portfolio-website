@@ -146,9 +146,9 @@ a {
   transition: all 0.8s;
 }
 
-.btn-pink:hover::before {
+/* .btn-pink:hover::before {
   transform: scaleX(1);
-}
+} */
 
 .btn-pink span{
   position: relative;
@@ -380,13 +380,13 @@ a {
 }
 
 #project1{
-  background-image: url(img/Project1.png);
+  background-image: url(img/project\ 1.jpg);
   
 
 }
 
 #project2{
-  background-image: url(img/Project2.png);
+  background-image: url(img/project\ 2.jpg);
   margin-left: 120px;
 }
 
